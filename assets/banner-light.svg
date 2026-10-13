@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Renzo Ezagui — Systems, product, and code">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b87a00"/><stop offset="1" stop-color="#678f00"/></linearGradient>
+    <radialGradient id="glow" cx="0.9" cy="0.1" r="0.7"><stop offset="0" stop-color="#b87a00" stop-opacity="0.16"/><stop offset="1" stop-color="#b87a00" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="14" fill="#fdfcf9"/>
+  <rect width="1200" height="320" rx="14" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="none" stroke="#382b631c"/>
+  <text x="64" y="84" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3" fill="#b87a00">EZAGUI.DEV  /  PROFILE</text>
+  <text x="64" y="170" font-family="'Space Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#100d19">Renzo Ezagui</text>
+  <text x="64" y="218" font-family="'Space Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#625b74">Systems, product, and code.</text>
+  <rect x="64" y="248" width="120" height="3" rx="1.5" fill="url(#bar)"/>
+  <text x="64" y="284" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#625b74">clarity over noise · scalable before clever · product sense close to the code</text>
+</svg>

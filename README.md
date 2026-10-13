@@ -1,24 +1,52 @@
-# Renzo Ezagui
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Renzo Ezagui — Systems, product, and code" src="assets/banner-dark.svg" width="100%">
+</picture>
 
-Full stack developer. I build web products end to end — realtime backends, React frontends, and the infrastructure they run on.
+Designing useful products and solid systems, with a bias for clarity and quality.
+Years in demanding environments shaped how I think about architecture, product decisions, and long-term maintainability. Personal projects are where that mindset stays close to the code.
 
-**Site:** [ezagui.dev](https://ezagui.dev) · **Email:** [renzo.ezagui@gmail.com](mailto:renzo.ezagui@gmail.com)
+[**ezagui.dev**](https://ezagui.dev) · [LinkedIn](https://linkedin.com/in/renzo-ezagui) · [renzo.ezagui@gmail.com](mailto:renzo.ezagui@gmail.com)
 
 ---
 
-## Selected projects
+### `APPROACH`
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Poker Planning**](https://github.com/renzo-ezagui/poker-planning-frontend) · [live](https://poker.ezagui.dev) | Realtime planning-poker rooms for agile teams, with a 3D table. Backend: [`poker-planning-backend`](https://github.com/renzo-ezagui/poker-planning-backend). | NestJS, Socket.IO, MongoDB, React, React Three Fiber |
-| [**Pokedex**](https://github.com/renzo-ezagui/pokedex-frontend) · [live](https://pokedex.ezagui.dev) | Browsable Pokédex (809 Pokémon, Gen 1–7) over a small REST API. Backend: [`pokedex-backend`](https://github.com/renzo-ezagui/pokedex-backend). | React, Vite, TypeScript |
-| [**Birds**](https://github.com/renzo-ezagui/playground-birds) · [live](https://birds.ezagui.dev) | Boid flocking simulation on canvas, built as a teaching tool for OOP and emergent behavior. No framework, no runtime dependencies. | TypeScript, Canvas 2D, esbuild |
-| [**AUX AC for Home Assistant**](https://github.com/renzo-ezagui/homelab-ha-aux-lan) | Custom integration that controls AUX air conditioners over the local network, no cloud. | Python, Home Assistant |
+```text
+clarity over noise
+scalable before clever
+product sense close to the code
+```
 
-## What I work with
+### `WHAT / HOW`
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Vite, React Three Fiber
-- **Backend:** Node.js, NestJS, Socket.IO
-- **Data:** MongoDB, PostgreSQL
-- **Infra:** Docker, Linux, self-hosted deployments
+- Products, systems, and internal tooling built with long-term structure in mind.
+- Architecture, solution design, and implementation kept practical and close to delivery.
+- Creative, simple solutions that still respect scale, quality, and maintainability.
+
+---
+
+### `SELECTED WORK`
+
+**Poker Planning** — [live](https://poker.ezagui.dev) · [frontend](https://github.com/renzo-ezagui/poker-planning-frontend) · [backend](https://github.com/renzo-ezagui/poker-planning-backend)
+Realtime planning-poker rooms for agile teams, with a 3D table.
+`NestJS` `Socket.IO` `MongoDB` `React` `React Three Fiber`
+
+**Pokedex** — [live](https://pokedex.ezagui.dev) · [frontend](https://github.com/renzo-ezagui/pokedex-frontend) · [backend](https://github.com/renzo-ezagui/pokedex-backend)
+Browsable Pokédex (809 Pokémon, Gen 1–7) over a small REST API.
+`React` `Vite` `TypeScript`
+
+**Birds** — [live](https://birds.ezagui.dev) · [source](https://github.com/renzo-ezagui/playground-birds)
+Boid flocking simulation on canvas, built as a teaching tool for OOP and emergent behavior. No framework, no runtime dependencies.
+`TypeScript` `Canvas 2D` `esbuild`
+
+**AUX AC for Home Assistant** — [source](https://github.com/renzo-ezagui/homelab-ha-aux-lan)
+Custom integration that controls AUX air conditioners over the local network, no cloud.
+`Python` `Home Assistant`
+
+---
+
+### `STACK`
+
+`TypeScript` `JavaScript` `Python` · `React` `Vite` `React Three Fiber` · `Node.js` `NestJS` `Socket.IO` · `MongoDB` `PostgreSQL` · `Docker` `Linux`
